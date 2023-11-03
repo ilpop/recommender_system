@@ -1,24 +1,17 @@
 # Dependency directory
 node_modules/
-
 # Compiled JavaScript files
 dist/
-
 # Environment files
 .env
-
 # macOS filesystem file
 .DS_Store
-
 # Logs
 *.log
-
 # Optional: ignore TypeScript declaration files
 *.d.ts
-
 # Optional: ignore TypeScript build info file
 *.tsbuildinfo
-
 # Ignore editor directories and files
 .idea/
 *.code-workspace
