@@ -16,7 +16,7 @@ git clone https://github.com/ilpop/recommender_system.git
 ```
 2. Navigate to the cloned repository directory:
 ```
-cd ecommender_system
+cd recommender_system
 ```
     
 
