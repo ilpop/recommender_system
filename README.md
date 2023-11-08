@@ -12,11 +12,11 @@ To get this project up and running on your local machine, follow these steps:
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/your-username/movie-recommender.git
+git clone https://github.com/ilpop/recommender_system.git
 ```
 2. Navigate to the cloned repository directory:
 ```
-cd movie-recommender 
+cd ecommender_system
 ```
     
 
